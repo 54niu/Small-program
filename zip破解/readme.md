@@ -4,4 +4,3 @@
 
 详细文档看以前写的博客：[http://niuu.xyz/2016/11/07/python3-5编写zip破解器/](http://niuu.xyz/2016/11/07/python3-5编写zip破解器/)
 
-123456
